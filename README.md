@@ -14,10 +14,10 @@ WEBT 1340 Project Page
 
 <h2>Project 5</h2>
 
-<li><a href="Project 5/aos-brochure.ai">Project 5- Portfolio Builder</a><li>
+<li><a href="Project5/aos-brochure.ai">Project 5- Portfolio Builder</a><li>
 
-<li><a href="Project 5/aos-brochure.pdf">Project 5- Portfolio Builder</a><li>
+<li><a href="Project5/aos-brochure.pdf">Project 5- Portfolio Builder</a><li>
 
-<li><a href="Project 5/campbrochure.ai">Project 5- Chapter Work</a><li>
+<li><a href="Project5/campbrochure.ai">Project 5- Chapter Work</a><li>
 
-<li><a href="Project 5/campbrochure.pdf">Project 5- Chapter Work</a><li>
+<li><a href="Project5/campbrochure.pdf">Project 5- Chapter Work</a><li>
