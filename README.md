@@ -19,7 +19,7 @@ WEBT 1340 Project Page
 <li><a href="project5/campbrochure.pdf">Project 5- Chapter Work</a><li>
 
 <h2>Proejct 7</h2>
-<li><a href="project7/coffee-producers.ai">Project 7- Porfolio Builder</a><li>
+<li><a href="project7/coffee-producers..ai">Project 7- Porfolio Builder</a><li>
 <li><a href="project7/favorites-graph.ai">Project 7- Portfolio Builder</a><li>
 <li><a href="project7/fig1graph.ai">Project 7- Chapter Work</a><li>
 <li><a href="project7/fig2.ai">Project 7- Chapter Work</a><li>
