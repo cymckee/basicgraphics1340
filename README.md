@@ -26,3 +26,10 @@ WEBT 1340 Project Page
 <li><a href="project7/fig3.ai">Project 7-Chapter Work</a><li>
 <li><a href="project7/price-graph.ai">Project 7-Portfolio Builder</a><li>
 <li><a href="project7/reasons-graph.ai">Project 7-Portfolio Builder</a><li>
+
+<h2>Project 8</h2>
+<li><a href="project8/index.html">Project 8- Portfolio Builder</a><li>
+<li><a href="project8/site-design.ai">Project 8- Portfolio Builder</a><li>
+<li><a href="project8/PersonalPromo.pdf">Project 8- Portfolio Brochure</a><li>
+<li><a href="project8/site-design.pdf">Project 8- Portfolio Builder</a><li>
+<li><a href="project8/royaltyhairdesignlogo.pdf">Project 8- Chapter Work</a><li>

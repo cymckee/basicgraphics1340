@@ -1,0 +1,104 @@
+@charset "utf-8";
+	.main-text
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+}
+.home-feature
+{
+	background-image : url(home-feature.png);
+	background-repeat : no-repeat;
+}
+.footer_-bkg
+{
+	background-image : url(footer_-bkg.png);
+	background-repeat : no-repeat;
+}
+body
+{
+	background : -moz-linear-gradient(50% 0% -90deg,rgba(242, 171, 76, 1) 11.69%,rgba(249, 0, 3, 1) 32.73%,rgba(231, 0, 3, 1) 35.4%,rgba(162, 0, 2, 1) 46.1%,rgba(104, 0, 1, 1) 56.23%,rgba(60, 0, 1, 1) 65.49%,rgba(28, 0, 0, 1) 73.72%,rgba(8, 0, 0, 1) 80.61%,rgba(1, 0, 0, 1) 85.32%,rgba(0, 0, 0, 1) 100%,rgba(255, 255, 255, 1) 100%);
+	background : -webkit-linear-gradient(-90deg, rgba(242, 171, 76, 1) 11.69%, rgba(249, 0, 3, 1) 32.73%, rgba(231, 0, 3, 1) 35.4%, rgba(162, 0, 2, 1) 46.1%, rgba(104, 0, 1, 1) 56.23%, rgba(60, 0, 1, 1) 65.49%, rgba(28, 0, 0, 1) 73.72%, rgba(8, 0, 0, 1) 80.61%, rgba(1, 0, 0, 1) 85.32%, rgba(0, 0, 0, 1) 100%, rgba(255, 255, 255, 1) 100%);
+	background : -webkit-gradient(linear,50% 0% ,50% 100% ,color-stop(0.1169,rgba(242, 171, 76, 1) ),color-stop(0.3273,rgba(249, 0, 3, 1) ),color-stop(0.354,rgba(231, 0, 3, 1) ),color-stop(0.461,rgba(162, 0, 2, 1) ),color-stop(0.5623,rgba(104, 0, 1, 1) ),color-stop(0.6549,rgba(60, 0, 1, 1) ),color-stop(0.7372,rgba(28, 0, 0, 1) ),color-stop(0.8061,rgba(8, 0, 0, 1) ),color-stop(0.8532,rgba(1, 0, 0, 1) ),color-stop(1,rgba(0, 0, 0, 1) ),color-stop(1,rgba(255, 255, 255, 1) ));
+	background : -o-linear-gradient(-90deg, rgba(242, 171, 76, 1) 11.69%, rgba(249, 0, 3, 1) 32.73%, rgba(231, 0, 3, 1) 35.4%, rgba(162, 0, 2, 1) 46.1%, rgba(104, 0, 1, 1) 56.23%, rgba(60, 0, 1, 1) 65.49%, rgba(28, 0, 0, 1) 73.72%, rgba(8, 0, 0, 1) 80.61%, rgba(1, 0, 0, 1) 85.32%, rgba(0, 0, 0, 1) 100%, rgba(255, 255, 255, 1) 100%);
+	background : -ms-linear-gradient(-90deg, rgba(242, 171, 76, 1) 11.69%, rgba(249, 0, 3, 1) 32.73%, rgba(231, 0, 3, 1) 35.4%, rgba(162, 0, 2, 1) 46.1%, rgba(104, 0, 1, 1) 56.23%, rgba(60, 0, 1, 1) 65.49%, rgba(28, 0, 0, 1) 73.72%, rgba(8, 0, 0, 1) 80.61%, rgba(1, 0, 0, 1) 85.32%, rgba(0, 0, 0, 1) 100%, rgba(255, 255, 255, 1) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#F2AB4C', endColorstr='#FFFFFF' ,GradientType=0)";
+	background : linear-gradient(180deg, rgba(242, 171, 76, 1) 11.69%, rgba(249, 0, 3, 1) 32.73%, rgba(231, 0, 3, 1) 35.4%, rgba(162, 0, 2, 1) 46.1%, rgba(104, 0, 1, 1) 56.23%, rgba(60, 0, 1, 1) 65.49%, rgba(28, 0, 0, 1) 73.72%, rgba(8, 0, 0, 1) 80.61%, rgba(1, 0, 0, 1) 85.32%, rgba(0, 0, 0, 1) 100%, rgba(255, 255, 255, 1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#F2AB4C',endColorstr='#FFFFFF' , GradientType=0);
+}
+.nav-bkg
+{
+	background : #FF0E0E;
+	background : rgba(255, 14, 14, 1);
+}
+.studio81-logo
+{
+	background-image : url(studio81-logo.png);
+	background-repeat : no-repeat;
+}
+footer
+{
+	font-family : ATC Onyx;
+	font-size : 9px;
+	line-height : 19.37px;
+	color : #FFC314;
+	color : rgb(255, 195, 20);
+}
+nav
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+h1
+{
+	font-family : ATC Onyx;
+	font-size : 32px;
+	line-height : 22.05px;
+	color : #EA3B0E;
+	color : rgb(234, 59, 14);
+}
+p
+{
+	font-family : ATC Onyx;
+	font-size : 12px;
+	line-height : 20px;
+}
+.nav3
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.nav1
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.nav2
+{
+	font-family : ATC Onyx;
+	font-size : 21px;
+	line-height : 34px;
+	letter-spacing : 1.05px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+	text-shadow : 0px 2px 1px rgba(0, 0, 0, 0.75);
+}
+.header-bkg_00000050645861739722223490000002900599893704964006_
+{
+	background-image : url(header-bkg_00000050645861739722223490000002900599893704964006_.png);
+	background-repeat : no-repeat;
+}
