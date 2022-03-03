@@ -1,0 +1,136 @@
+/* Global Style */
+
+img {
+    display:block;
+    margin: 0 auto;
+    width: 100%
+}
+
+h2, h3, footer {
+    color: white;
+    text-align:center;
+    background-color: yellow;
+
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#container {
+   text-decoration: none;
+    background-color:white;
+    color: black;
+
+}
+p{
+    color:white;
+    text-align: justify;
+
+}
+/* End Global Styles */
+
+/* Mobile Styles */
+
+header {
+background-image: url('../images/FLAG2.png');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+header img {
+    width: 50%;
+    
+}
+header h1 {
+    padding-bottom: 5px;
+    text-shadow: 2px 2px 2px red;
+   text-decoration-color: black;
+   
+}
+ 
+nav {
+    background-color: black;
+    padding: 3px;
+    text-align: center;
+    border-bottom: 1px solid;
+text-decoration: none;
+
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-decoration: none;
+
+}
+nav li {
+    display: block;
+    text-decoration: none;
+
+}
+nav li a{
+    display: block;
+    padding: 2px;
+    color:red;
+    background-color: black;
+    text-decoration: none;
+    font-size: 1.5em;
+    height: 30px;
+    line-height: 30px;
+    
+ } 
+ nav li a:hover {
+            background-color:white;          
+            font-size: 1.5em;
+            color: white;
+ }
+
+ main {
+     background-color:black;    
+      padding: 5px;
+      align-content: center;
+      
+ }
+
+ #image_gallery img {
+     margin: 10px 0;
+     align-content: center;
+ }
+     footer {
+         padding: 40px 0;
+         border-top: 2px solid yellow; 
+     
+
+     
+     }
+/* End Tablet Styles */
+
+/* Desktop Styles */
+
+@media (min-width: 1024px) {
+    header img {
+        width: 20%;
+        margin-left: 150px;
+
+    }
+header h1 {
+    font-size: 3em;
+}
+
+nav li a {
+    width: 200px;
+    margin: 0 10px;
+    border-radius: 20px;
+}
+#image_gallery img {
+    width: 31.8%;
+}
+
+}
+
+

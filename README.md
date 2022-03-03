@@ -33,3 +33,8 @@ WEBT 1340 Project Page
 <li><a href="project8/PersonalPromo.pdf">Project 8- Portfolio Brochure</a><li>
 <li><a href="project8/site-design.pdf">Project 8- Portfolio Builder</a><li>
 <li><a href="project8/royaltyhairdesignlogo.pdf">Project 8- Chapter Work</a><li>
+
+<h2>Final Project</h2>
+<li><a href="finalproject/index.html">Final Project-Site Work</a><li>
+<li><a href="finalproject/images/LOGO.png">Final Projece Work</a><li>
+<li><a href="finalproject/final.ai">Final Project Layout</a><li>
