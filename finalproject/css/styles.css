@@ -85,7 +85,7 @@ nav li a{
     
  } 
  nav li a:hover {
-            background-color:white;          
+            background-color: black;          
             font-size: 1.5em;
             color: white;
  }
@@ -94,7 +94,7 @@ nav li a{
      background-color:black;    
       padding: 5px;
       align-content: center;
-      
+
  }
 
  #image_gallery img {

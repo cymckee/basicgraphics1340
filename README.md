@@ -37,4 +37,5 @@ WEBT 1340 Project Page
 <h2>Final Project</h2>
 <li><a href="finalproject/index.html">Final Project-Site Work</a><li>
 <li><a href="finalproject/images/LOGO.png">Final Projece Work</a><li>
-<li><a href="finalproject/final.ai">Final Project Layout</a><li>
+<li><a href="finalproject/Web 1366 -1.png">Final Project Layout</a><li>
+<li><a href="fianlproject/Iphone 8 Plus - 1.png">Final Project Layout</a><li>
